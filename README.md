@@ -7,6 +7,6 @@ Add this to requirements.yml:
 
 ```
 - src: https://github.com/VincentHardouin/ansible-docker
-  name: vincenthardouin.base
+  name: vincenthardouin.docker
   version: vX.X.X
 ```
